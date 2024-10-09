@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img src="https://i.pinimg.com/originals/2f/00/6a/2f006a4527ed1dfd886558bf8a7123f0.gif" width="100%" alt="anime">
+<img src="https://i.pinimg.com/originals/2f/00/6a/2f006a4527ed1dfd886558bf8a7123f0.gif" width="100%" height="50%" alt="anime">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik5026&label=Profile%20views&color=0e75b6&style=flat" alt="kartik5026" /> </p>
