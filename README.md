@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 <img src="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif" width="100%" style="height: 200px; object-fit: cover;" alt="anime">
 
